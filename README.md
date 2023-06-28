@@ -5,17 +5,17 @@
 </h3>
 
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/lucianotavernard/bootcamp-gostack-node-desafio-05.svg">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/lucianotavernard/bootcamp-gostack-desafio-05.svg">
 
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/lucianotavernard/bootcamp-gostack-node-desafio-05.svg">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/lucianotavernard/bootcamp-gostack-desafio-05.svg">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/lucianotavernard/bootcamp-gostack-node-desafio-05.svg">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/lucianotavernard/bootcamp-gostack-desafio-05.svg">
 
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/lucianotavernard/bootcamp-gostack-node-desafio-05.svg">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/lucianotavernard/bootcamp-gostack-desafio-05.svg">
 
-  <img alt="Repository issues" src="https://img.shields.io/github/issues/lucianotavernard/bootcamp-gostack-node-desafio-05.svg">
+  <img alt="Repository issues" src="https://img.shields.io/github/issues/lucianotavernard/bootcamp-gostack-desafio-05.svg">
 
-  <img alt="GitHub" src="https://img.shields.io/github/license/lucianotavernard/bootcamp-gostack-node-desafio-05.svg">
+  <img alt="GitHub" src="https://img.shields.io/github/license/lucianotavernard/bootcamp-gostack-desafio-05.svg">
 </p>
 
 <p align="center">
